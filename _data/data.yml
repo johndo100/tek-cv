@@ -1,16 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-# Site Settings
-title: My Resume
-url: 'https://tek-cv.tuanbui.net'
-
-#change it according to your repository name
-# disabling since we are using a custom domain
-#baseurl: '/online-cv' 
-
-description: A beautiful Jekyll theme for creating resume
-# Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic teal oceanstale
 
 sidebar:
