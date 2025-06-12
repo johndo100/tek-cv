@@ -157,6 +157,9 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+  - name: Google
+    level: 99%
+
   - name: FreeBSD & UNIX
     level: 50%
 
