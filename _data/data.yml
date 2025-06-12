@@ -48,12 +48,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    An old dog learning new tricks & looking for an job.
+    I am good at Linux, virtualization and networking.
+    I learned all of them by myself so maybe I missed something.
+    I'm running a homelab if you ask me.
 education:
   title: Education
   info:
@@ -72,188 +70,140 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Blog Writer
+    time: 2023 - Present
+    company: Self Employed
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Since IT stuffs has been a hobby for many years, I'm trying to make a living from it.
+      I'm [writing](https://tuanbui.net/blog) about IT tips, focus in UNIX / Linux and open source softwares.
+      I'm making websites and [videos](https://www.youtube.com/channel/UC8eSoW1B0b5mZPFQJx9namg), selling computer and things related.
+        - Linux/FreeBSD
+        - Docker/Kubernetes
+        - OpenWrt/OPNsense
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
+  - name: Python Data Fundamentals
     start: 2019
-    end:
-    organization: Microsoft
+    end: 2020
+    organization: DataCamp
     credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    credentialurl: www.datacamp.com
+    credentialname: DataCamp
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Grow data skills, discover how to manipulate and visualize data, and apply advanced analytics to make data-driven decisions.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Some of my projects in this section.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Trang trại Hươu Nai
+    link: "https://tuanbui.net/2024/11/01/ghi-chep-live-streaming-camera-video-website"
+    tagline: "Embedding IP Camera Live Video Stream in a web page that anyone can access."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: DIY VoIP Gateway
+    link: "https://tuanbui.net/2024/10/24/wireless-pbx-system-for-home-and-small-office"
+    tagline: "IP PBX call distributor for home and small office."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: DIY Mail Server
+    link: "https://tuanbui.net/2024/10/10/mail-server-for-small-businesses-freebsd-opensmtpd-and-dovecot"
+    tagline: "Mail Server for small businesses FreeBSD OpenSMTPD and Dovecot."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: DIY Linux Router
+    link: "https://tuanbui.net/2024/07/22/build-it-yourself-alpine-linux-router"
+    tagline: "Alpine Linux Router with PPP DHCP DNS NAT Wi-Fi 4G LTE 5G."
 
-  - title: Delta
+  - title: Excel automation
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Write a small Python script to automate excel data. It was for a trucking company, they wanted a simple solution."
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    My open source software contributions in this section. Golang or Shell.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: wakeonlan
+    link: "https://github.com/johndo100/wakeonlan"
+    tagline: "simple golang lib by me"
+  - title: NextCloudOnFreeBSD
+    link: "https://github.com/theGeeBee/NextCloudOnFreeBSD/pull/11"
+    tagline: "small fix only"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
 
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: Bui Anh-Tuan
+    email: me@tuanbui.net
+    phone: 091 802 6858
+    role: Me hahaha
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+      Bui Anh-Tuan is a super employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: FreeBSD & UNIX
+    level: 50%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
+  - name: Ubuntu & Debian
     level: 60%
+
+  - name: Python
+    level: 10%
+
+  - name: Golang
+    level: 10%
+
+  - name: Bash
+    level: 10%
+
+  - name: Git
+    level: 20%
+
+  - name: Vim & Nano
+    level: 20%
+
+  - name: sed & awk
+    level: 10%
+
+  - name: OpenWrt & OPNsense
+    level: 10%
+
+  - name: Monit & Netdata
+    level: 10%
+
+  - name: HAProxy & Squid
+    level: 10%
+
+  - name: Nginx & Caddy
+    level: 20%
+
+  - name: Docker, Kubernetes, LXC & KVM
+    level: 50%
+
+  - name: TrueNAS, FTP, SMB, NFS & ZFS
+    level: 50%
+
+  - name: DNS, HTTP, SSL, SSH & OSI Model
+    level: 10%
+
+  - name: SMTP, DMARC, IMAP, SPF & POP3
+    level: 10%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
